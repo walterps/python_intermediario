@@ -1,4 +1,5 @@
 #REalizar a soma dos valores no carrinho de compras
+#Parte do e-commerce
 
 carrinho = []
 carrinho.append(('produto 1', 10))
